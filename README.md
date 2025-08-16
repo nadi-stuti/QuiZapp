@@ -2,5 +2,5 @@
  WearOS quiz app created in flutter
 
 # todo
-Add scoring system
-Convert quiz API to river quiz API
+- Add scoring system
+- Convert quiz API to river quiz API
